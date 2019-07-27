@@ -1,1 +1,0 @@
-/usr/bin/c++  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libGeometry3D.so -o libGeometry3D.so CMakeFiles/Geometry3D.dir/src/BasicElements.cpp.o CMakeFiles/Geometry3D.dir/src/Shape3D.cpp.o CMakeFiles/Geometry3D.dir/src/Vector3D.cpp.o 
