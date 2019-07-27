@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/BasicElements.h
+iostream
+-
+Vector3D.h
+../include/Vector3D.h
+
+../include/Shape3D.h
+BasicElements.h
+../include/BasicElements.h
+
+../include/Vector3D.h
+iostream
+-
+
+/home/zhoujx/Desktop/Geometry3D/src/BasicElements.cpp
+BasicElements.h
+/home/zhoujx/Desktop/Geometry3D/src/BasicElements.h
+cmath
+-
+
+/home/zhoujx/Desktop/Geometry3D/src/Shape3D.cpp
+Shape3D.h
+/home/zhoujx/Desktop/Geometry3D/src/Shape3D.h
+cmath
+-
+
+/home/zhoujx/Desktop/Geometry3D/src/Vector3D.cpp
+Vector3D.h
+/home/zhoujx/Desktop/Geometry3D/src/Vector3D.h
+BasicElements.h
+/home/zhoujx/Desktop/Geometry3D/src/BasicElements.h
+cmath
+-
+cstdlib
+-
+

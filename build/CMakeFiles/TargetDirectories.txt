@@ -1,0 +1,4 @@
+/home/zhoujx/Desktop/Geometry3D/build/CMakeFiles/edit_cache.dir
+/home/zhoujx/Desktop/Geometry3D/build/CMakeFiles/rebuild_cache.dir
+/home/zhoujx/Desktop/Geometry3D/build/CMakeFiles/Demo.dir
+/home/zhoujx/Desktop/Geometry3D/build/CMakeFiles/Geometry3D.dir
